@@ -1,12 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=4000&pause=1000&color=F7F7F7&width=800&lines=Hi%2C+my+name+is+Prithee.+Welcome+to+my+Github+page+%F0%9F%91%8B%F0%9F%8F%BD;Below+you+can+find+out+more+about+me+%F0%9F%91%87%F0%9F%8F%BD+)](https://git.io/typing-svg)
 <br />
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="35%" />
-
+<img align="right" alt="GIF" 
+     src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="35%" />
+<br />
 
 👋🏽 My name is Prithee (Pri-thee), and I am a software engineer who is passionate about solving complex problems using data. 
+<br />
 
 🎓 I am pursuing a Computer Science degree at the University of Toronto.
+<br />
 
 
 💻 I have previously interned at Manulife as a Software Engineer, where I worked on a Quantitative Investment Strategy
@@ -14,6 +16,7 @@ System in Java and React.js. I have previously worked as an Automation Developer
 continuous integration and infrastructure provisioning. I have also worked as an IT Project Manager where I managed a 
 large‑scale project, handling both the IT and project management aspects simultaneously.
 
+<br />
 
 
 ### Some of the languages and frameworks that I work with are:
