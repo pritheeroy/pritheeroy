@@ -22,6 +22,17 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Python", "Java", "JavaScript", "C", "C++", "SQL", "R", "Ruby", "PHP" },
+    "Technologies" : { "TensorFlow", "Keras", "PyTorch", "Git", "Flask", "Django", "Jenkins", "Docker", "Kubernetes", "AWS", "React"}
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Latex", "Json", "Markdown" },
+    "Database" : { "MongoDB", "SQLite" },
+    "Editors" : { "VScode", "Sublime", "vi", "PyCharm", "IntelliJ" },
+    "Platforms" : { "GNU/Linux", "Unix/Macbook", "Windows" }
+  };
+}
+
 
 
 
