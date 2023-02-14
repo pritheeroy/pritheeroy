@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&duration=4000&pause=1000&color=F7F7F7&width=800&lines=Hi%2C+my+name+is+Prithee.+Welcome+to+my+Github+page+%F0%9F%91%8B%F0%9F%8F%BD;Below+you+can+find+out+more+about+me+)](https://git.io/typing-svg)
 <br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="30%" />
+<img style=”margin: 1px 1px 1px 1px;” align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="30%" />
 
 
 👋🏽 Hello, welcome to my Github! My name is Prithee (Pri-thee), and I am a software engineer who is passionate about solving complex problems using data. 
