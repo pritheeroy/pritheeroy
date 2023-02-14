@@ -45,7 +45,7 @@ class About extends Me {
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Latex", "Json", "Markdown" },
     "Database" : { "MongoDB", "SQLite" },
     "Editors" : { "VScode", "Sublime", "vi", "PyCharm", "IntelliJ" },
-    "Platforms" : { "GNU/Linux", "Unix/Macbook", "Windows" }
+    "Platforms" : { "Linux", "MacOS", "Windows" }
   };
 }
 ```
