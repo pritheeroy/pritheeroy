@@ -6,7 +6,8 @@
 
 👋🏽 Hello, welcome to my Github! My name is Prithee (Pri-thee), and I am a software engineer who is passionate about solving complex problems using data. 
 
-🎓 I am pursuing a Computer Science degree at the University of Toronto <img alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="3%" /> .
+🎓 I am pursuing a Computer Science degree at the University of Toronto <img alt="GIF" src="https://media.giphy.com/media/242usHYHj6uaWyCy4A/giphy.gif" width="3%" /> .
+
 
 💻 I have previously interned at Manulife as a Software Engineer, where I worked on a Quantitative Investment Strategy System in Java and React.js. I have previously worked as an Automation Developer, automating data entry by setting up continuous integration and infrastructure provisioning. I have also worked as an IT Project Manager where I managed a large‑scale project, handling both the IT and project management aspects simultaneously.
 
