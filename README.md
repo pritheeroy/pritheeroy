@@ -37,15 +37,17 @@ continuous integration and infrastructure provisioning. I have also worked as an
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ``` dart
-// more about my technical skills
+// more about me and my technical skills
 class About extends Me { 
-  const myTools = {  
+  const prithee = {  
+    "Pronouns" : {"he", "him"},
     "ProgramingLanguages" : { "Python", "Java", "JavaScript", "C", "C++", "SQL", "R", "Ruby", "PHP" },
     "Technologies" : { "TensorFlow", "Jenkins", "Docker", "Kubernetes", "AWS", "Django", "Keras", "PyTorch", "Git", "Flask",  "React"}
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Latex", "Json", "Markdown" },
     "Database" : { "MongoDB", "SQLite" },
     "Editors" : { "VScode", "Sublime", "vi/vim", "PyCharm", "IntelliJ" },
-    "Platforms" : { "Linux", "MacOS", "Windows" }
+    "Platforms" : { "Linux", "MacOS", "Windows" },
+    "Hobbies" : {"Skiing", "Concerts", "Reading", "Baking", "Sleeping"}
   };
 }
 ```
