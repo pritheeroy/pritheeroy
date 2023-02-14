@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="30%" />
 
 
-👋🏽 Hello, welcome to my Github! My name is Prithee (Pri-thee), and I am a software engineer who is passionate about solving complex problems using data. 
+👋🏽 My name is Prithee (Pri-thee), and I am a software engineer who is passionate about solving complex problems using data. 
 
 🎓 I am pursuing a Computer Science degree at the University of Toronto <img alt="GIF" src="https://media.giphy.com/media/242usHYHj6uaWyCy4A/giphy.gif" width="3%" /> .
 
