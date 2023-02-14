@@ -2,7 +2,6 @@
 <br />
 <img align="right" alt="GIF" 
      src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="38%" />
-<br />
 
 👋🏽 My name is Prithee (Pri-thee), and I am a software engineer who is passionate about solving complex problems using data. 
 <br />
