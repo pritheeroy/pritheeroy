@@ -44,7 +44,7 @@ class About extends Me {
     "Technologies" : { "TensorFlow", "Jenkins", "Docker", "Kubernetes", "AWS", "Django", "Keras", "PyTorch", "Git", "Flask",  "React"}
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Latex", "Json", "Markdown" },
     "Database" : { "MongoDB", "SQLite" },
-    "Editors" : { "VScode", "Sublime", "vi", "PyCharm", "IntelliJ" },
+    "Editors" : { "VScode", "Sublime", "vi/vim", "PyCharm", "IntelliJ" },
     "Platforms" : { "Linux", "MacOS", "Windows" }
   };
 }
