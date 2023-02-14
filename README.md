@@ -11,8 +11,8 @@
 
 
 💻  Currently, I am working at Borealis AI, a research institute at RBC, as a machine learning engineer on the ML Infrastructure Team with a focus on MLOps. I have previously interned at Manulife as a Software Engineer, where I worked on a Quantitative Investment Strategy
-System in Java and React.js. I have previously worked as an Automation Developer, automating data entry by setting up 
-continuous integration and infrastructure provisioning. I have also worked as a Project Manager where I managed a large‑scale project, handling both the technical and project management aspects simultaneously.
+System in Java and React.js. I have also worked as an Automation Developer, automating data entry by setting up 
+continuous integration and infrastructure provisioning.  In addition, I have worked as a Project Manager where I managed a large‑scale project, handling both the technical and project management aspects simultaneously.
 
 <br />
 
