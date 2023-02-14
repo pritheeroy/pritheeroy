@@ -41,13 +41,13 @@ continuous integration and infrastructure provisioning. I have also worked as an
 class About extends Me { 
   const prithee = {  
     "Pronouns" : {"he", "him"},
-    "ProgramingLanguages" : { "Python", "Java", "JavaScript", "C", "C++", "SQL", "R", "Ruby", "PHP" },
-    "Technologies" : { "TensorFlow", "Jenkins", "Docker", "Kubernetes", "AWS", "Django", "Keras", "PyTorch", "Git", "Flask",  "React"}
+    "ProgramingLanguages" : { "Python", "Java", "JavaScript", "C", "C++", "SQL", "R", "Ruby", "PHP", "Visual Basic" },
+    "Technologies" : { "TensorFlow", "Jenkins", "Docker", "Kubernetes", "AWS", "Django", "Keras", "PyTorch", "Git", "Flask",  "React" } 
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Latex", "Json", "Markdown" },
     "Database" : { "MongoDB", "SQLite" },
     "Editors" : { "VScode", "Sublime", "vi/vim", "PyCharm", "IntelliJ" },
     "Platforms" : { "Linux", "MacOS", "Windows" },
-    "Hobbies" : {"Skiing", "Concerts", "Reading", "Baking", "Sleeping"}
+    "Hobbies" : { "Skiing", "Concerts", "Reading", "Baking", "Sleeping" }
   };
 }
 ```
