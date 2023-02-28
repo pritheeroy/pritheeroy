@@ -10,9 +10,9 @@
 <br />
 
 
-💻  Currently, I am working at Borealis AI, a research institute at RBC, as a Machine Learning Software Engineer on the ML Infrastructure Team with a focus on MLOps. I have previously interned at Manulife as a Software Engineer, where I worked on a Quantitative Investment Strategy
+💻  Currently, I am working at Borealis AI, a research institute at RBC, as a Machine Learning Software Engineer on the ML Infrastructure Team with a focus on MLOps. I've worked at the University Health Network as a Software Engineer, primarly working with Python and SQL to optimize functions and build ETL pipelines. I have previously interned at Manulife as a Software Engineer, where I worked on a Quantitative Investment Strategy
 System in Java and React.js. I have also worked as an Automation Developer, automating data entry by setting up 
-continuous integration and infrastructure provisioning.  In addition, I have worked as a Project Manager where I managed a large‑scale project, handling both the technical and project management aspects simultaneously.
+continuous integration and infrastructure provisioning.
 
 <br />
 
