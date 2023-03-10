@@ -40,7 +40,7 @@ continuous integration and infrastructure provisioning.
 // more about me and my technical skills
 class About extends Me { 
   const prithee = {  
-    "Pronouns" : {"he", "him"},
+    "Pronouns" : { "he", "him" },
     "ProgramingLanguages" : { "Python", "Java", "JavaScript", "C", "C++", "SQL", "R", "Ruby", "PHP", "Visual Basic" },
     "Technologies" : { "TensorFlow", "Jenkins", "Docker", "Kubernetes", "AWS", "Django", "Keras", "PyTorch", "Git", "Flask",  "React" } 
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Latex", "Json", "Markdown" },
