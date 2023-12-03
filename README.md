@@ -34,18 +34,17 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-``` dart
+``` python
 // more about me and my technical skills
 class About extends Me { 
   const prithee = {  
     "Pronouns" : { "he", "him" },
-    "ProgramingLanguages" : { "Python", "Java", "JavaScript", "C", "C++", "SQL", "R", "Ruby", "PHP", "Visual Basic" },
-    "Technologies" : { "TensorFlow", "Jenkins", "Docker", "Kubernetes", "AWS", "Django", "Keras", "PyTorch", "Git", "Flask",  "React" } 
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Latex", "Json", "Markdown" },
-    "Database" : { "MongoDB", "SQLite" },
+    "ProgramingLanguages" : { "Python", "Java", "JavaScript", "BASH", "C/C++", "SQL", "R", "HTML/CSS" },
+    "Technologies" : { "TensorFlow", "Jenkins", "Docker", "Kubernetes", "AWS", "Django", "Kubeflow", "Terraform", "Git", "Flask",  "React" },
+    "Database" : { "PostgreSQL", "AWS DyanoDB", "MongoDB", "SQLite" },
     "Editors" : { "VScode", "Sublime", "vi/vim", "PyCharm", "IntelliJ" },
     "Platforms" : { "Linux", "MacOS", "Windows" },
-    "Hobbies" : { "Skiing", "Concerts", "Reading", "Baking", "Sleeping" }
+    "Hobbies" : { "Skiing", "Concerts", "Reading", "Baking" }
   };
 }
 ```
