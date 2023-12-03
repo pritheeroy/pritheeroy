@@ -39,8 +39,8 @@
 class About extends Me { 
   const prithee = {  
     "Pronouns" : { "he", "him" },
-    "ProgramingLanguages" : { "Python", "Java", "JavaScript", "BASH", "C/C++", "SQL", "R", "HTML/CSS" },
-    "Technologies" : { "TensorFlow", "Jenkins", "Docker", "Kubernetes", "AWS", "Django", "Kubeflow", "Terraform", "Git", "Flask",  "React" },
+    "ProgramingLanguages" : { "Python", "Java", "JavaScript", "BASH", "SQL", "Dart", "C/C++", "R", "HTML/CSS" },
+    "Technologies" : { "Jenkins", "Docker", "Kubernetes", "AWS", "Django", "Kubeflow", "Terraform", "Git", "Flask", "React" },
     "Database" : { "PostgreSQL", "AWS DyanoDB", "MongoDB", "SQLite" },
     "Editors" : { "VScode", "Sublime", "vi/vim", "PyCharm", "IntelliJ" },
     "Platforms" : { "Linux", "MacOS", "Windows" },
