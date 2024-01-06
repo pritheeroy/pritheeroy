@@ -10,7 +10,7 @@
 <br />
 
 
-💻 Currently, I am working at Ripple as a Software Engineer Intern on the Data Platform team. Previously, I worked at Borealis AI, a research institute at RBC, as a Machine Learning Software Engineer on the ML Infrastructure Team with a focus on MLOps. I have also previously interned at Manulife as a Software Engineer, where I worked on a Quantitative Investment Strategy System in Java and React.js.
+💻 Most recently, I worked at Ripple as a Software Engineer Intern on the Data Platform team. Previously, I worked at Borealis AI, a research institute at RBC, as a Machine Learning Software Engineer on the ML Infrastructure Team with a focus on MLOps. I have also previously interned at Manulife as a Software Engineer, where I worked on a Quantitative Investment Strategy System in Java and React.js.
 
 <br />
 
