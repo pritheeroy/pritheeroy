@@ -10,20 +10,20 @@
 <br />
 
 
-💻 Most recently, I worked at Ripple as a Software Engineer Intern on the Data Platform team. Previously, I worked at Borealis AI, a research institute at RBC, as a Machine Learning Software Engineer on the ML Infrastructure Team with a focus on MLOps. I have also previously interned at Manulife as a Software Engineer, where I worked on a Quantitative Investment Strategy System in Java and React.js.
+💻 Most recently, I worked at Intuit on the Intuit Kubernetes Service (IKS) team. Before that, I worked at Ripple as a Software Engineer Intern on the Data Platform team. Previously, I worked at Borealis AI, a research institute at RBC, as a Machine Learning Software Engineer on the ML Infrastructure Team, focusing on MLOps. I have also previously interned at Manulife as a Software Engineer, where I worked on a Quantitative Investment Strategy System in Java and React.js.
 
 <br />
 
 
 ### Some of the languages/frameworks that I have experience with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -32,15 +32,14 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ``` python
 // more about me and my technical skills
 class About extends Me { 
   const prithee = {  
     "Pronouns" : { "he", "him" },
-    "ProgramingLanguages" : { "Python", "Java", "JavaScript", "BASH", "SQL", "Dart", "C/C++", "R", "HTML/CSS" },
-    "Technologies" : { "Jenkins", "Docker", "Kubernetes", "AWS", "Django", "Kubeflow", "Terraform", "Git", "Flask", "React" },
+    "ProgramingLanguages" : { "Python", "Go", "Java", "JavaScript", "SQL", "BASH", "TypeScript", "C/C++", "HTML/CSS" },
+    "Technologies" : { "AWS", "Docker", "Kubernetes", "Kubeflow", "Jenkins", "Terraform", "Airflow", "Git", "Flask", "React" },
     "Database" : { "PostgreSQL", "AWS DyanoDB", "MongoDB", "SQLite" },
     "Editors" : { "VScode", "Sublime", "vi/vim", "PyCharm", "IntelliJ" },
     "Platforms" : { "Linux", "MacOS", "Windows" },
